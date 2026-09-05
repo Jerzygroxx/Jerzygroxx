@@ -200,24 +200,6 @@
 
 ---
 
-## 📈 MI ROADMAP 2024-2026
-
-```mermaid
-graph LR
-    A["Q4 2024<br/>Docker & Kubernetes<br/>Azure Cert<br/>IA Basics"] --> B["Q1 2025<br/>AWS Specialist<br/>E-commerce Full<br/>ML Algorithms"]
-    B --> C["Q2 2025<br/>Portfolio Web<br/>Open Source<br/>Automatizaciones"]
-    C --> D["Q3 2025<br/>Proyectos IA<br/>Tech Leadership<br/>Freelancing"]
-    D --> E["Q4 2025-2026<br/>Consultoría Tech<br/>Innovación"]
-    
-    style A fill:#00d9ff,stroke:#333,color:#000
-    style B fill:#00d9ff,stroke:#333,color:#000
-    style C fill:#00d9ff,stroke:#333,color:#000
-    style D fill:#00d9ff,stroke:#333,color:#000
-    style E fill:#00d9ff,stroke:#333,color:#000
-```
-
----
-
 ## 🎓 ENFOQUE DE APRENDIZAJE
 
 ```
@@ -252,7 +234,7 @@ Kubernetes & Orquestación            ██████░░░░░░░░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-perez-mendoza-395b313a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jerzygroxx)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluisperez1006@hotmail.com)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluisperez1006@hotmail.com)
 
 </div>
 
