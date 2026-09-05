@@ -1,6 +1,6 @@
 <!-- ENCABEZADO ANIMADO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Jorge+Luis+Pérez+Mendoza;🚀+Ingeniero+de+Sistemas+|+Full-Stack+Developer;💻+Innovador+|+Problem+Solver+|+Tech+Enthusiast;⚡+Construyendo+el+futuro+con+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Jorge+Luis+Pérez+Mendoza;🚀+Ingeniero+de+Sistemas;💡+Full-Stack+Developer;🤖+AI+%26+Automation+Specialist" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,14 +26,16 @@
 📍 Ubicación:        Barranquilla, Colombia
 🎓 Educación:        Ingeniería de Sistemas - CUC (8vo Semestre)
 💼 Situación:        Estudiante | Buscando Oportunidades
-🎯 Especialidad:     Desarrollo Web Full-Stack & Cloud Infrastructure
-🚀 Misión:           Crear soluciones escalables que transformen negocios
-🔥 Pasión:           Código limpio, arquitectura robusta e innovación
+🎯 Especialidad:     Desarrollo Web Full-Stack, IA & Automatizaciones
+🚀 Misión:           Crear soluciones escalables e inteligentes que transformen negocios
+🔥 Pasión:           Código limpio, arquitectura robusta, IA y automatización
+📧 Correo:           jorgeluisperez1006@hotmail.com
+🔗 LinkedIn:         linkedin.com/in/jorge-perez-mendoza-395b313a7
 ```
 
 </div>
 
-> *"No solo escribo código, construyo experiencias digitales que generan impacto real."*
+> *"No solo escribo código, construyo experiencias digitales inteligentes que generan impacto real."*
 
 ---
 
@@ -49,11 +51,22 @@
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 IA & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ Automatizaciones
+![RPA](https://img.shields.io/badge/-RPA-0078D4?style=for-the-badge)
+![N8N](https://img.shields.io/badge/-n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,9 +88,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerzygroxx&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&custom_title=Estadísticas%20de%20Jorge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerzygroxx&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerzygroxx&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerzygroxx&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=8)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jerzygroxx&theme=dark&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)](https://github.com/Jerzygroxx)
 
@@ -92,10 +105,12 @@
 | **Desarrollo Web** | HTML5, CSS3, JavaScript ES6+ | ⭐⭐⭐⭐⭐ |
 | **Backend** | Node.js, Express, APIs REST | ⭐⭐⭐⭐ |
 | **Bases de Datos** | MySQL, PostgreSQL, MongoDB | ⭐⭐⭐⭐ |
+| **IA & Machine Learning** | TensorFlow, Scikit-Learn, APIs OpenAI | ⭐⭐⭐⭐ |
+| **Automatizaciones** | RPA, n8n, Zapier, Workflows | ⭐⭐⭐⭐ |
 | **DevOps** | Docker, GitHub Actions | ⭐⭐⭐⭐ |
 | **Cloud** | Azure (Intermedio), AWS (Aprendizaje) | ⭐⭐⭐ |
 | **Sistemas** | Linux, Redes, Infraestructura | ⭐⭐⭐ |
-| **Soft Skills** | Liderazgo, Comunicación, Problemática | ⭐⭐⭐⭐⭐ |
+| **Soft Skills** | Liderazgo, Comunicación, Resolución de Problemas | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -174,28 +189,31 @@
 
 | 🎯 | Actividad | Estado |
 |:--:|-----------|--------|
-| 🔍 | Explorando arquitecturas de microservicios | ⏳ En progreso |
+| 🤖 | Explorando IA y Machine Learning aplicado | ⏳ En progreso |
+| ⚙️ | Desarrollando automatizaciones inteligentes | ⏳ En progreso |
+| 🏗️ | Construyendo arquitecturas de microservicios | ⏳ En progreso |
 | 📚 | Aprendiendo AWS y DevOps avanzado | ⏳ En progreso |
 | 💻 | Desarrollando software de gestión empresarial | ⏳ En progreso |
-| 🤝 | Buscando oportunidades en desarrollo web | ✅ Abierto |
-| 🌐 | Profundizando en redes y sistemas | ⏳ En progreso |
+| 🤝 | Buscando oportunidades en desarrollo web e IA | ✅ Abierto |
 
 </div>
 
 ---
 
-## 📈 MI ROADMAP 2024-2025
+## 📈 MI ROADMAP 2024-2026
 
 ```mermaid
 graph LR
-    A["Q4 2024<br/>Docker & Kubernetes<br/>Azure Cert"] --> B["Q1 2025<br/>AWS Specialist<br/>E-commerce Full"]
-    B --> C["Q2 2025<br/>Portfolio Web<br/>Open Source"]
-    C --> D["Q3 2025<br/>Freelancing<br/>Tech Leadership"]
+    A["Q4 2024<br/>Docker & Kubernetes<br/>Azure Cert<br/>IA Basics"] --> B["Q1 2025<br/>AWS Specialist<br/>E-commerce Full<br/>ML Algorithms"]
+    B --> C["Q2 2025<br/>Portfolio Web<br/>Open Source<br/>Automatizaciones"]
+    C --> D["Q3 2025<br/>Proyectos IA<br/>Tech Leadership<br/>Freelancing"]
+    D --> E["Q4 2025-2026<br/>Consultoría Tech<br/>Innovación"]
     
     style A fill:#00d9ff,stroke:#333,color:#000
     style B fill:#00d9ff,stroke:#333,color:#000
     style C fill:#00d9ff,stroke:#333,color:#000
     style D fill:#00d9ff,stroke:#333,color:#000
+    style E fill:#00d9ff,stroke:#333,color:#000
 ```
 
 ---
@@ -204,6 +222,8 @@ graph LR
 
 ```
 Desarrollo Web Full-Stack             ████████████████████ 90%
+IA & Machine Learning                 ███████████░░░░░░░░░ 55%
+Automatizaciones & RPA                ███████████░░░░░░░░░ 55%
 Gestión de Infraestructura           ████████████░░░░░░░░ 60%
 Cloud Computing (Azure)              ███████████░░░░░░░░░ 55%
 Docker & Containerización            ███████████░░░░░░░░░ 55%
@@ -220,7 +240,7 @@ Kubernetes & Orquestación            ██████░░░░░░░░
 
 **Siempre abierto a:**
 
-🤝 Proyectos desafiantes | 💡 Ideas innovadoras | 📖 Aprender juntos | 🚀 Open Source | 🎯 Colaboraciones
+🤝 Proyectos desafiantes | 💡 Ideas innovadoras | 🤖 Proyectos con IA | ⚙️ Automatizaciones | 📖 Aprender juntos | 🚀 Open Source | 🎯 Colaboraciones
 
 </div>
 
@@ -230,10 +250,9 @@ Kubernetes & Orquestación            ██████░░░░░░░░
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-luis-perez-mendoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-perez-mendoza-395b313a7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jerzygroxx)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.perez@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573001234567)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluisperez1006@hotmail.com)
 
 </div>
 
